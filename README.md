@@ -1,2 +1,4 @@
 # FullStackProject
-Repository for Project of Full Stack  Development-I , Mentor-Pankaj Kapoor Sir
+**Official Repository** - **_Full Stack Development-I_**
+
+### Mentor - [Pankaj Kapoor Sir]()
